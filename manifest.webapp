@@ -1,0 +1,14 @@
+{
+    "version": "0.9",
+    "name": "Marketplace",
+    "description": "feed",
+    "launch_path": "/home.html",
+    "icons": {
+       
+        "128": "/img/icon-128.png"
+    },
+
+    "installs_allowed_from": ["*"],
+    "default_locale": "en"
+    
+}
